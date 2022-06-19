@@ -1,0 +1,9 @@
+{
+    "explorer.confirmDelete": false,
+    "go.useLanguageServer": true,
+    "gopls": {
+        "ui.completion.usePlaceholders": true
+    },
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline"
+}
