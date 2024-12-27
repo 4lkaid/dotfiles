@@ -1,0 +1,11 @@
+[commit]
+    template = ~/.commit.template
+[diff]
+    tool = vimdiff
+[init]
+    defaultBranch = main
+[merge]
+    tool = vimdiff
+[user]
+    name = 4lkaid
+    email = 4lkaid@gmail.com
