@@ -1,5 +1,7 @@
 [commit]
     template = ~/.commit.template
+[core]
+    autocrlf = input
 [diff]
     tool = vimdiff
 [init]

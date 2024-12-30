@@ -1,0 +1,17 @@
+BoldAsColour=no
+BoldAsFont=no
+Charset=UTF-8
+ClicksPlaceCursor=yes
+CopyAsHTML=3
+CursorType=underscore
+Font=Hack Nerd Font Mono
+FontHeight=16
+FontIsBold=yes
+FontSmoothing=full
+FontWeight=700
+Language=zh_CN
+Locale=zh_CN
+Scrollbar=none
+Term=xterm-256color
+ThemeFile=dracula
+Transparency=60
