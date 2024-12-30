@@ -1,0 +1,29 @@
+{
+  "ui_font_size": 14,
+  "buffer_font_size": 12,
+  "terminal": {
+    "blinking": "on"
+  },
+  "tabs": {
+    "git_status": true
+  },
+  "lsp": {
+    "rust-analyzer": {
+      "binary": {
+        "path": "/Users/alkaid/.cargo/bin/rust-analyzer",
+        "arguments": ["--no-log-buffering"]
+      }
+    }
+  },
+  // "languages": {
+  //   "SQL": {
+  //     "formatter": {
+  //       "external": {
+  //         "command": "pg_format",
+  //         "arguments": ["-L"]
+  //       }
+  //     }
+  //   }
+  // },
+  "proxy": "http://127.0.0.1:7890"
+}
