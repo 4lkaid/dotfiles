@@ -15,15 +15,15 @@
       }
     }
   },
-  // "languages": {
-  //   "SQL": {
-  //     "formatter": {
-  //       "external": {
-  //         "command": "pg_format",
-  //         "arguments": ["-L"]
-  //       }
-  //     }
-  //   }
-  // },
+  "languages": {
+    "SQL": {
+      "formatter": {
+        "external": {
+          "command": "/Users/alkaid/Documents/workspace/pgFormatter/pg_format",
+          "arguments": ["-L", "--no-space-function"]
+        }
+      }
+    }
+  },
   "proxy": "http://127.0.0.1:7890"
 }
