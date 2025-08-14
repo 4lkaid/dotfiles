@@ -27,6 +27,7 @@
   // markdownlint 配置
   "markdownlint.config": {
     "MD001": false,
+    "MD024": { "siblings_only": true },
     "MD036": false
   },
   "[markdown]": {
